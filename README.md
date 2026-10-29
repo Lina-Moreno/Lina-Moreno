@@ -1,5 +1,5 @@
 
-# Hola, soy Lina Sofía Moreno
+# Lina Sofia Moreno Guatavita
 
 **Systems Engineering Student | Software Development | Cloud & Data Engineering**
 
