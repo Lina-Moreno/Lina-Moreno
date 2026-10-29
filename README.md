@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Lina-Moreno/Lina-Moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Lina Sofía Moreno
 
-Here are some ideas to get you started:
+**Systems Engineering Student | Software Development | Cloud & Data Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería de Sistemas en la Universidad Distrital Francisco José de Caldas, interesada en el desarrollo de software, la arquitectura de sistemas, la ingeniería de datos y la computación en la nube.
+
+## Actualmente estoy aprendiendo
+
+- **AWS Academy Data Engineering** — Amazon Web Services (AWS)
+- **GCI World — Data Science** — Universidad de Tokio
+
+## Habilidades técnicas
+
+- **Lenguajes:** Python, Java, SQL
+- **Herramientas:** Git, GitHub, NumPy
